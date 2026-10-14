@@ -1,0 +1,50 @@
+[
+  {
+    "notebook": "01_spacex_api.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 1
+  },
+  {
+    "notebook": "02_web_scraping.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 1
+  },
+  {
+    "notebook": "03_data_wrangling.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 1
+  },
+  {
+    "notebook": "04_eda_visualization.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 3
+  },
+  {
+    "notebook": "05_eda_sql.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 3
+  },
+  {
+    "notebook": "06_folium.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 3
+  },
+  {
+    "notebook": "07_plotly_dash.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 1
+  },
+  {
+    "notebook": "08_predictive_analysis.ipynb",
+    "status": "executed",
+    "errors": [],
+    "outputs": 3
+  }
+]
